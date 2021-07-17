@@ -16,7 +16,7 @@
                         <table>
                             <thead>
                                 <tr>    
-                                    <th>Trnasaction Id</th>
+                                    <th>Transaction Id</th>
                                     <th>Sender Name </th>
                                     <th>Sender Account Number </th>
                                     <th>Receiver Name </th>
