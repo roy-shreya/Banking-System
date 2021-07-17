@@ -10,5 +10,9 @@
         <!-- Navigation bar -->
         <?php include 'navbar.php' ?>
         <h1>Welcome to Sparks Bank</h1>
+        <div class="buttons">
+            <a class="btn btn-secondary cbtn" href="contacts.php" role="button">View Contacts</a>
+            <a class="btn btn-secondary cbtn" href="transaction.php" role="button">View Transaction History</a>
+        </div>        
     </body>
 </html>
