@@ -38,7 +38,7 @@
                                 <td><a class=" btn btn-dark btn-sm view" href="#">View</a></td>
                                 <td><a class=" btn btn-dark btn-sm" href="transfer.php?id=<?php echo $res['AccountNo']; ?>">Transfer</a></td>
                             </tr>
-                            <!-- Modal -->
+                            <!-- Modal view to pop-up the details-->
                             <div class="modal fade" id="customerModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog" role="document">
                                     <div class="modal-content">
@@ -65,6 +65,7 @@
                 </div>
             </div>
         </div>
+        <!-- Fetch data for modal view -->
         <script type='text/javascript'>
             $(document).ready(function(){
                 $('.view').click(function (e){

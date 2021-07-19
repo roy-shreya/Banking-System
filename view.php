@@ -1,3 +1,4 @@
+<!-- File to fetch data for modal view -->
 <?php
 $user = 'root';
 $pass = '';
