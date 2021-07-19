@@ -1,3 +1,4 @@
+<!-- Connecting with database -->
 <?php
 
 $user = 'root';
