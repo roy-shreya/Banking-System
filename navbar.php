@@ -1,3 +1,4 @@
+<!-- Common navigation bar for all pages -->
 <!DOCTYPE html>
 <html lang="en">
     <head>

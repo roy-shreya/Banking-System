@@ -1,3 +1,4 @@
+<!-- Displaying the transaction history -->
 <!DOCTYPE html>
 <html lang="en">
     <head>

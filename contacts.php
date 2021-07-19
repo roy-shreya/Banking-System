@@ -1,3 +1,4 @@
+<!-- View all customers -->
 <!DOCTYPE html>
 <html lang="en">
     <head>
